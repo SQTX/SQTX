@@ -104,9 +104,9 @@ Beyond the world of IT, I'm on a mission **to reach a B2 level in Norwegian** ðŸ
 
 </br>
 
-Appreciate the moment of your attention.
+Appreciate the moment of your attention.\
 Cheers,
-#####SQTX
+#### SQTX
 
 ---
 
