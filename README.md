@@ -80,9 +80,9 @@ Sometimes I tinker with microcontrollers, sometimes I debug stuff — always dri
 <!-- ### 📊 GitHub Stats -->
 <h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sqtx&show_icons=true&theme=radical"style="height:200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sqtx&show_icons=true&theme=radical"style="height:150px"/>
   <!-- <br> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sqtx&layout=compact&theme=radical" style="height:200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sqtx&layout=compact&theme=radical" style="height:150px"/>
 </p>
 
 <!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sqtx&show_icons=true&theme=radical)
